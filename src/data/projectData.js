@@ -5,7 +5,7 @@ export const photoGridOne = [
         modalTitle: "#001",
         modalContent: "Sign Up Form",
         modalButton: "Open Project",
-        link: "/projects/project-001"
+        link: "/signUpForm001"
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const photoGridOne = [
         modalTitle: "#002",
         modalContent: "Credit Card Checkout",
         modalButton: "Open Project",
-        link: "/projects/2"
+        link: "/creditCardCheckout002"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export const photoGridOne = [
         modalTitle: "#003",
         modalContent: "Landing Page",
         modalButton: "Open Project",
-        link: "/projects/3"
+        link: "/landingPage003"
     }
 ];
 
