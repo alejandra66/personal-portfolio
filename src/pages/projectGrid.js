@@ -25,7 +25,7 @@ const ProjectGrid = () => {
     };
 
     const renderPhotoGrid = (photoGrid) => (
-        <div className="grid gap-4">
+        <div className="grid gap-4 pt-20">
             {photoGrid.map((photo) => (
                 <div
                     key={photo.id}
